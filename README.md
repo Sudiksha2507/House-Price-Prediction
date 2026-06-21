@@ -38,6 +38,17 @@ Kaggle House Prices - Advanced Regression Techniques Dataset.
 * R² Score
 * Mean Absolute Error (MAE)
 
+## Models Used
+
+* Linear Regression (R² Score: 0.791)
+* Random Forest Regressor (R² Score: 0.887)
+
+## Results
+
+* Best Model: Random Forest Regressor
+* R² Score: 0.887
+* Mean Absolute Error (MAE) used for evaluation
+  
 ## Author
 
 Sudiksha
