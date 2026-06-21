@@ -28,6 +28,17 @@ Kaggle House Prices - Advanced Regression Techniques Dataset.
 6. Model Evaluation
 7. House Price Prediction
 
+## Exploratory Data Analysis
+
+### House Price Distribution
+![Histogram](images/histogram.png)
+
+### Living Area vs Sale Price
+![Scatter Plot](images/scatter_plot.png)
+
+### Correlation Heatmap
+![Heatmap](images/heatmap.png)
+
 ## Models Used
 
 * Linear Regression
