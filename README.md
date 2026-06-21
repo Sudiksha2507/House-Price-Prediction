@@ -31,13 +31,13 @@ Kaggle House Prices - Advanced Regression Techniques Dataset.
 ## Exploratory Data Analysis
 
 ### House Price Distribution
-![Histogram](images/histogram.png)
+![Histogram](histogram.png)
 
 ### Living Area vs Sale Price
-![Scatter Plot](images/scatter_plot.png)
+![Scatter Plot](scatter_plot.png)
 
 ### Correlation Heatmap
-![Heatmap](images/heatmap.png)
+![Heatmap](heatmap.png)
 
 ## Models Used
 
