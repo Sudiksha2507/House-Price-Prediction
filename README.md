@@ -35,7 +35,7 @@ Kaggle House Prices - Advanced Regression Techniques Dataset.
 
 ### Living Area vs Sale Price
 ![Scatter Plot](scatter_plot.png)
-
+ 
 ### Correlation Heatmap
 ![Heatmap](heatmap.png)
 
